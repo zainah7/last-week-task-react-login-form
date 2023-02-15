@@ -1,11 +1,19 @@
 import './App.css';
-// import images from "./assets/img";
 import Login from './components/login';
-import './App.css';
+import Or from './components/or';
+import Input from './components/input';
+
 
 function App() {
   return (
+    <div>
+
     <Login />
+    <Input />
+    <Or />
+
+    </div>
+    
   );
 }
 
