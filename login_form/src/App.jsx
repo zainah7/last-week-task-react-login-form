@@ -1,5 +1,5 @@
 import React from "react"
-import './components/login/index.jsx'
+import Login from './components/login/index'
 function App () {
   return (
     <div className='app'>
